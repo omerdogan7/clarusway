@@ -1,18 +1,21 @@
 # clarusway
 clarusway-assignments
+
 Overview
 This repository contains my completed assignment focused on data manipulation and analysis using NumPy and Pandas within a Jupyter Notebook environment. This assignment was done as part of my coursework to strengthen my data science and data analysis skills.
+
 
 Objectives
 Apply NumPy for array manipulation and mathematical operations.
 Use Pandas for data loading, exploration, and processing.
 Perform practical data analysis techniques and gain experience with Jupyter Notebook as an interactive environment for data science.
+
 Assignment Details
 The assignment covers key tasks:
-
 NumPy Operations: Creating, reshaping, and performing mathematical operations on arrays.
 Pandas Data Handling: Reading, filtering, and analyzing data frames.
 Data Analysis: Practical exercises on common data manipulation methods like grouping, aggregating, and handling missing data.
+
 Setup
 To run the code in this assignment, make sure you have the following installed:
 
